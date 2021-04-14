@@ -45,6 +45,8 @@ h1 {
 }
 
 footer{
+    background-color: #202020;
+    color: white;
     position: relative;
     bottom: 0;
 }
